@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\TP1\bin\Debug\TP1.exe.config
+C:\Users\PC-1\source\repos\TP1\bin\Debug\TP1.exe
+C:\Users\PC-1\source\repos\TP1\bin\Debug\TP1.pdb
+C:\Users\PC-1\source\repos\TP1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\PC-1\source\repos\TP1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\TP1\obj\Debug\TP1.exe
+C:\Users\PC-1\source\repos\TP1\obj\Debug\TP1.pdb
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\bin\Debug\TP1.exe.config
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\bin\Debug\TP1.exe
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\bin\Debug\TP1.pdb
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\obj\Debug\TP1.exe
+C:\Users\PC-1\Desktop\juan el programadore\prog. 2\tp_laboratorio_2\TP1\obj\Debug\TP1.pdb
