@@ -8,13 +8,18 @@ namespace Entidades
 {
     public class Moto : Vehiculo
     {
+        #region Constructores
         public Moto(EMarca marca, string chasis, ConsoleColor color) : base (chasis, marca, color)
         {
         }
 
+        #endregion
+
+        #region Propiedades
         /// <summary>
         /// Las motos son chicas
         /// </summary>
+        /// 
         protected override ETamanio Tamanio
         {
             get
@@ -23,13 +28,17 @@ namespace Entidades
             }
         }
 
-        public override sealed string Mostrar()
+        #endregion
+
+
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("MOTO");
             sb.AppendLine((string)this);
-            sb.AppendLine("TAMAÑO : " + this.Tamanio.ToString());
+            sb.Append("TAMAÑO : ");
+            sb.Append(this.Tamanio.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

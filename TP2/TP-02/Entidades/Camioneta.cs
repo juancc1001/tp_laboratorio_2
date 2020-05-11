@@ -23,13 +23,14 @@ namespace Entidades
             }
         }
 
-        public override sealed string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("CAMIONETA");
             sb.AppendLine((string)this);
-            sb.AppendLine("TAMAÑO : " + this.Tamanio);
+            sb.Append("TAMAÑO : ");
+            sb.AppendLine(this.Tamanio.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

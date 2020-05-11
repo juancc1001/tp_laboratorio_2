@@ -44,21 +44,19 @@ namespace Entidades
 
         #endregion
 
-        #region propiedades
+        #region Propiedades
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
-         
 
         protected virtual ETamanio Tamanio 
         { 
-            get { return ETamanio.Chico ; }
+            get { return ETamanio.Chico; }
         }
-
 
         #endregion
 
-        #region metodos
+        #region Metodos
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
@@ -92,6 +90,11 @@ namespace Entidades
                     retorno = true;
             }
             return retorno;
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
 
         #endregion

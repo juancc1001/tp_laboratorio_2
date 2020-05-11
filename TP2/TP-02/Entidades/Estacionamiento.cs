@@ -13,12 +13,16 @@ namespace Entidades
     /// </summary>
     public class Estacionamiento
     {
+        #region "Atributos"
+
         List<Vehiculo> vehiculos;
         int espacioDisponible;
         public enum ETipo
         {
             Moto, Automovil, Camioneta, Todos
         }
+
+        #endregion
 
         #region "Constructores"
         private Estacionamiento()

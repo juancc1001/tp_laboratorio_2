@@ -56,14 +56,16 @@ namespace Entidades
 
         #region metodos
 
-        public override sealed string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("AUTOMOVIL");
             sb.AppendLine((string)this);
-            sb.AppendLine("TAMAÑO : " + this.Tamanio.ToString());
-            sb.AppendLine("TIPO : " + this.tipo);
+            sb.Append("TAMAÑO : ");
+            sb.AppendLine(this.Tamanio.ToString());
+            sb.Append("TIPO : ");
+            sb.AppendLine(this.tipo.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
