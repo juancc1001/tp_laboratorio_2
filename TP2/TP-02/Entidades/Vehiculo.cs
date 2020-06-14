@@ -48,11 +48,8 @@ namespace Entidades
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
-
-        protected virtual ETamanio Tamanio 
-        { 
-            get { return ETamanio.Chico; }
-        }
+      
+        protected abstract ETamanio Tamanio { get; }
 
         #endregion
 
@@ -61,10 +58,7 @@ namespace Entidades
         /// Publica todos los datos del Vehiculo.
         /// </summary>
         /// <returns></returns>
-        public virtual string Mostrar()
-        {
-            return (string)this;
-        }
+        public abstract string Mostrar();
 
         public static explicit operator string(Vehiculo p)
         {
@@ -79,22 +73,6 @@ namespace Entidades
             sb.AppendLine("---------------------");
 
             return sb.ToString();
-        }
-
-        public override bool Equals(object obj)
-        {
-            bool retorno = false;
-            if (obj is Vehiculo)
-            {
-                if ((Vehiculo)obj == this)
-                    retorno = true;
-            }
-            return retorno;
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
         }
 
         #endregion
@@ -118,7 +96,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis == v2.chasis);
+            return !(v1 == v2);
         }
 
         #endregion

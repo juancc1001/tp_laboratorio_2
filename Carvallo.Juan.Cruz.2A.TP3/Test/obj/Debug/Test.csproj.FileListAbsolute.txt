@@ -1,0 +1,16 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Test.exe
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Test.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\bin\Debug\Excepciones.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\obj\Debug\Test.exe
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Test\obj\Debug\Test.pdb

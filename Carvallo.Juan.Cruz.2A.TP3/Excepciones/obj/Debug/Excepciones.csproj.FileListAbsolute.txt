@@ -1,0 +1,6 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,25 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Archivos.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csproj.CopyComplete
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.pdb

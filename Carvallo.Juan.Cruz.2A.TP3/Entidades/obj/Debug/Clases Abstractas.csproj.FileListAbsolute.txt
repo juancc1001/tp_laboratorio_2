@@ -1,0 +1,9 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\bin\Debug\Clases Abstractas.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\bin\Debug\Clases Abstractas.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\obj\Debug\Clases Abstractas.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.Juan.Cruz.2A.TP3\Entidades\obj\Debug\Clases Abstractas.pdb

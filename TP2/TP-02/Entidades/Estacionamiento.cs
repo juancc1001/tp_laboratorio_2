@@ -64,7 +64,13 @@ namespace Entidades
             
             foreach (Vehiculo v in c.vehiculos)
             {
-                switch (tipo)
+
+                if(tipo == ETipo.Todos || (v.GetType()).ToString() == "Entidades." + tipo.ToString())
+                {
+                    sb.AppendLine(v.Mostrar());
+                }
+
+                /*switch (tipo)
                 {
                     case ETipo.Camioneta:
                         if (v is Camioneta)
@@ -87,7 +93,7 @@ namespace Entidades
                     default:
                         sb.AppendLine(v.Mostrar());
                         break;
-                }
+                }*/
             }
 
             return sb.ToString();
