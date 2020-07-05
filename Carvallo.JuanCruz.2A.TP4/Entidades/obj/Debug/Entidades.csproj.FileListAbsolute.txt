@@ -1,0 +1,6 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\Entidades\obj\Debug\Entidades.pdb
